@@ -1,6 +1,6 @@
 {
   "name": "my-node-project",
-  "version": "1.0.0",
+  "version": "0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,9 +9,14 @@
     "type": "git",
     "url": "git+https://github.com/Simon-FOS/my-node-project.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "Framwork",
+    "backend",
+    "nodejs",
+    "npm",
+  ],
+  "author": "Simon-FOS",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Simon-FOS/my-node-project/issues"
   },
